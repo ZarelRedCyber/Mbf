@@ -15,4 +15,4 @@ git clone https://github.com/ZarelRedCyber/Mbf
 
 cd Mbf
 
-python2 mbf.py
+python2 Tzy.py
